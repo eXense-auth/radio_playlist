@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1" xml:base="local://430F-0D0D/Media/Audio/Radio/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/">
-  <title>RADIO_23.12</title>
-  <identifier>{F444CD58-0E21-46EE-B671-22AAC2506CBF}</identifier>
-  <location>local://430F-0D0D/Media/Audio/Radio/RADIO_23.12.xspf</location>
+  <title>RADIO</title>
+  <identifier>32a6d11a-4ee7-409a-9051-a406282b7b3d</identifier>
+  <location>local://430F-0D0D/Media/Audio/Radio/RADIO.xspf</location>
   <extension application="http://www.aimp.ru/playlist/summary/0">
-    <aimp:prop name="ID">{F444CD58-0E21-46EE-B671-22AAC2506CBF}</aimp:prop>
-    <aimp:prop name="Name">RADIO_23.12.03</aimp:prop>
+    <aimp:prop name="ID">32a6d11a-4ee7-409a-9051-a406282b7b3d</aimp:prop>
+    <aimp:prop name="Name">RADIO</aimp:prop>
     <aimp:prop name="NameIsAutoSet">0</aimp:prop>
     <aimp:prop name="ContentFiles">44</aimp:prop>
-    <aimp:prop name="UserReordered">1</aimp:prop>
     <aimp:prop name="PlaybackCursor">1</aimp:prop>
     <aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
     <aimp:prop name="Shuffled">0</aimp:prop>
@@ -21,15 +20,13 @@
   <trackList>
     <track>
       <location>https://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-12-03_15-57-55&amp;uuid=2b8b79e8-bf6e-41f5-952f-6f9c7ea71a67</location>
-      <title>On The Radio</title>
-      <creator>Jay-Jay Johanson</creator>
+      <title>Darksynth-Radio</title>
       <meta rel="bitrate">128</meta>
-      <meta rel="genre">Coldwave</meta>
       <extension application="http://www.aimp.ru/playlist/track/0">
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>0</aimp:queueIndex>
+        <aimp:queueIndex>1</aimp:queueIndex>
       </extension>
       <extension application="http://www.aimp.ru/playlist/group/0">
         <aimp:title>Radio</aimp:title>
@@ -44,7 +41,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>1</aimp:queueIndex>
+        <aimp:queueIndex>2</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -55,7 +52,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>2</aimp:queueIndex>
+        <aimp:queueIndex>3</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -66,7 +63,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>3</aimp:queueIndex>
+        <aimp:queueIndex>4</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -77,7 +74,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>4</aimp:queueIndex>
+        <aimp:queueIndex>5</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -88,7 +85,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>5</aimp:queueIndex>
+        <aimp:queueIndex>6</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -99,7 +96,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>6</aimp:queueIndex>
+        <aimp:queueIndex>7</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -110,7 +107,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>7</aimp:queueIndex>
+        <aimp:queueIndex>8</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -121,7 +118,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>8</aimp:queueIndex>
+        <aimp:queueIndex>9</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -132,7 +129,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>9</aimp:queueIndex>
+        <aimp:queueIndex>10</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -143,7 +140,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>10</aimp:queueIndex>
+        <aimp:queueIndex>11</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -154,7 +151,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>48000</aimp:samplerate>
         <aimp:format>FLAC</aimp:format>
-        <aimp:queueIndex>11</aimp:queueIndex>
+        <aimp:queueIndex>12</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -165,7 +162,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>12</aimp:queueIndex>
+        <aimp:queueIndex>13</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -176,7 +173,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>13</aimp:queueIndex>
+        <aimp:queueIndex>14</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -187,7 +184,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>14</aimp:queueIndex>
+        <aimp:queueIndex>15</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -198,7 +195,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>15</aimp:queueIndex>
+        <aimp:queueIndex>16</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -209,7 +206,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>16</aimp:queueIndex>
+        <aimp:queueIndex>17</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -220,7 +217,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>17</aimp:queueIndex>
+        <aimp:queueIndex>18</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -231,7 +228,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>18</aimp:queueIndex>
+        <aimp:queueIndex>19</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -242,7 +239,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>19</aimp:queueIndex>
+        <aimp:queueIndex>20</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -253,7 +250,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>20</aimp:queueIndex>
+        <aimp:queueIndex>21</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -264,7 +261,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>21</aimp:queueIndex>
+        <aimp:queueIndex>22</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -275,7 +272,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>22</aimp:queueIndex>
+        <aimp:queueIndex>23</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -286,7 +283,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>23</aimp:queueIndex>
+        <aimp:queueIndex>24</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -297,7 +294,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>24</aimp:queueIndex>
+        <aimp:queueIndex>25</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -308,7 +305,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>25</aimp:queueIndex>
+        <aimp:queueIndex>26</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -319,7 +316,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>26</aimp:queueIndex>
+        <aimp:queueIndex>27</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -330,7 +327,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>27</aimp:queueIndex>
+        <aimp:queueIndex>28</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -341,7 +338,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>28</aimp:queueIndex>
+        <aimp:queueIndex>29</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -352,7 +349,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>29</aimp:queueIndex>
+        <aimp:queueIndex>30</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -360,7 +357,7 @@
       <title>Retrowave.One Radio</title>
       <extension application="http://www.aimp.ru/playlist/track/0">
         <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>30</aimp:queueIndex>
+        <aimp:queueIndex>31</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -371,7 +368,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>31</aimp:queueIndex>
+        <aimp:queueIndex>32</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -382,7 +379,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>32</aimp:queueIndex>
+        <aimp:queueIndex>33</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -393,7 +390,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>33</aimp:queueIndex>
+        <aimp:queueIndex>34</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -404,7 +401,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>34</aimp:queueIndex>
+        <aimp:queueIndex>35</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -415,7 +412,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>35</aimp:queueIndex>
+        <aimp:queueIndex>36</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -426,7 +423,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>36</aimp:queueIndex>
+        <aimp:queueIndex>37</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -437,7 +434,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>37</aimp:queueIndex>
+        <aimp:queueIndex>38</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -448,7 +445,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>38</aimp:queueIndex>
+        <aimp:queueIndex>39</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -459,7 +456,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>39</aimp:queueIndex>
+        <aimp:queueIndex>40</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -470,7 +467,7 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>40</aimp:queueIndex>
+        <aimp:queueIndex>41</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -478,7 +475,7 @@
       <title>CAPRICE MELODIC DEATH METAL</title>
       <extension application="http://www.aimp.ru/playlist/track/0">
         <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>41</aimp:queueIndex>
+        <aimp:queueIndex>42</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -486,7 +483,7 @@
       <title>CAPRICE SYMPHONIC DEATH METAL</title>
       <extension application="http://www.aimp.ru/playlist/track/0">
         <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>42</aimp:queueIndex>
+        <aimp:queueIndex>43</aimp:queueIndex>
       </extension>
     </track>
     <track>
@@ -497,8 +494,13 @@
         <aimp:chans>2</aimp:chans>
         <aimp:samplerate>44100</aimp:samplerate>
         <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>43</aimp:queueIndex>
+        <aimp:queueIndex>44</aimp:queueIndex>
       </extension>
     </track>
   </trackList>
+  <extension application="http://www.aimp.ru/playlist/preimage/0">
+    <preimage class="TAIMPPlaylistBasedPreimage">
+      <URI>https://raw.githubusercontent.com/eXense-auth/radio_playlist/main/RADIO.xspf</URI>
+    </preimage>
+  </extension>
 </playlist>
