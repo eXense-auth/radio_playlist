@@ -1,506 +1,542 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<playlist xmlns="http://xspf.org/ns/0/" version="1" xml:base="local://430F-0D0D/Media/Audio/Radio/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/">
-  <title>RADIO</title>
-  <identifier>32a6d11a-4ee7-409a-9051-a406282b7b3d</identifier>
-  <location></location>
-  <extension application="http://www.aimp.ru/playlist/summary/0">
-    <aimp:prop name="ID">32a6d11a-4ee7-409a-9051-a406282b7b3d</aimp:prop>
-    <aimp:prop name="Name">RADIO</aimp:prop>
-    <aimp:prop name="NameIsAutoSet">0</aimp:prop>
-    <aimp:prop name="ContentFiles">44</aimp:prop>
-    <aimp:prop name="PlaybackCursor">1</aimp:prop>
-    <aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
-    <aimp:prop name="Shuffled">0</aimp:prop>
-  </extension>
-  <extension application="http://www.aimp.ru/playlist/settings/0">
-    <aimp:prop name="Flags">1919</aimp:prop>
-    <aimp:prop name="GroupFormatLine">%FileDir</aimp:prop>
-    <aimp:prop name="FormatMainLine">%IF(%Artist,%Artist, - ,%Title,%Title)</aimp:prop>
-  </extension>
-  <trackList>
-    <track>
-      <location>https://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-12-03_15-57-55&amp;uuid=2b8b79e8-bf6e-41f5-952f-6f9c7ea71a67</location>
-      <title>Darksynth-Radio</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>1</aimp:queueIndex>
-      </extension>
-      <extension application="http://www.aimp.ru/playlist/group/0">
-        <aimp:title>Radio</aimp:title>
-        <aimp:state>2</aimp:state>
-      </extension>
-    </track>
-    <track>
-      <location>https://stream.laut.fm/darkzeroradio</location>
-      <title>DARK ZERO RADIO</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>2</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://stream.laut.fm/schwarzlauscher</location>
-      <title>Schwarzlauscher</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>3</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://stream.nightride.fm/darksynth.mp3</location>
-      <title>Nightride FM - Darksynth</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>4</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://bytefm--di--nacs-ice-01--01--cdn.cast.addradio.de/bytefm/hamburg/mp3/mid?_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC1uMmFlM2F0cGImdD0xNjk3MTg4ODMzJnM9Nzg2NmYyOWMjMzllOTM2NDcxYzVhNzNlZDE4NmMxZmQ2MDExZWJhMDg</location>
-      <title>ByteFM</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>5</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://radio.blueditor.com/8250/stream;</location>
-      <title>Radio Synthpop</title>
-      <meta rel="bitrate">123</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>6</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2023-10-12_07-20-07&amp;uuid=606bab87-15ed-4ae7-a78b-2045c8169a2c</location>
-      <title>dark-zero-radio</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>7</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://radio.streemlion.com:2405/stream</location>
-      <title>Big Sonic Heaven Radio</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>8</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://www.iceradio.net/listen</location>
-      <title>Iceradio Germany</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>9</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://hazzardstream.de:7777/?sid=1</location>
-      <title>Radio Hazzard of Darkness - The Best Radio</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>10</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://server26265.streamplus.de/;stream.mp3</location>
-      <title>Radio Nachtflug</title>
-      <meta rel="bitrate">256</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>11</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://radio.skynet-local.net:8000/skynet_ultra</location>
-      <title>Skynet Radio</title>
-      <meta rel="bitrate">1417</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>48000</aimp:samplerate>
-        <aimp:format>FLAC</aimp:format>
-        <aimp:queueIndex>12</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://stream.laut.fm/neofolk</location>
-      <title>Neofolk</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>13</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://ns319459.ip-91-121-67.eu:8000</location>
-      <title>XWAVE RADIO</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>14</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://149.56.157.81:5127/stream</location>
-      <title>Cathedral XIII</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>15</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://cast1.asurahosting.com/proxy/cobroxra/cobroxradio?0.049935923606255095</location>
-      <title>COBrOx.RADiO.fm</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>16</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://meralunafm.radionetz.de:8001/meralunafm.mp3</location>
-      <title>M'era Luna FM</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>17</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://stream.syntheticfm.com:8040/live</location>
-      <title>Synthetic FM - The radio for the Synth lovers</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>18</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://s2.radio.co/sab795a38d/listen</location>
-      <title>Louder Than War</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>19</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://c24.radioboss.fm:8014/stream</location>
-      <title>SynthWay Radio</title>
-      <meta rel="bitrate">256</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>20</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://www.schwarze-welle.de:7500</location>
-      <title>Schwarze Welle - Das Radio mit den besten dunklen Liedern</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>21</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://ais-sa3.cdnstream1.com/2606_128.mp3</location>
-      <title>BAGeL Radio</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>22</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://www.darkasylum.co.uk/mp3/playlist.pls</location>
-      <title>=Dark Asylum Radio= For The Digitally Insane</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>23</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://usa5.fastcast4u.com/proxy/wwwblood?mp=/1</location>
-      <title>Bloodlitradio.com - Very Dark Alternative Radio</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>24</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://stream.laut.fm/schwarzeszene</location>
-      <title>Schwarzeszene</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>25</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://138.197.0.4:8000/stream</location>
-      <title>Detroit Industrial Underground</title>
-      <meta rel="bitrate">256</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>26</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://79.120.12.130:8004/cyberpunk</location>
-      <title>Radio Caprice - Cyberpunk</title>
-      <meta rel="bitrate">319</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>27</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://46.105.124.120:8604/</location>
-      <title>Hexx 9</title>
-      <meta rel="bitrate">256</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>28</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://79.111.119.111:8002/dsbm</location>
-      <title>dsbm radcap.ru</title>
-      <meta rel="bitrate">46</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>29</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://web.batstationrad.io/stream.pls</location>
-      <title>The Bat Station</title>
-      <meta rel="bitrate">256</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>30</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://waveretro.ru:8443/stream</location>
-      <title>Retrowave.One Radio</title>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>31</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://stream.laut.fm/ultradarkradio</location>
-      <title>Ultradark-Radio</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>32</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://listen.42fm.ru:8000/stealkill</location>
-      <title>42fm radio station</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>33</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://stream.laut.fm/flatlines</location>
-      <title>Flatlines</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>34</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://shoegaze.stream.laut.fm/shoegaze</location>
-      <title>Shoegaze</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>35</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://stream.radio.co/s904013bb1/listen</location>
-      <title>Punk Rock Radio.ca</title>
-      <meta rel="bitrate">192</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>36</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://eu6.fastcast4u.com/proxy/pnd?mp=/stream</location>
-      <title>PolygonFM</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>37</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream</location>
-      <title>Polygon.Fm</title>
-      <meta rel="bitrate">128</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>38</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://eu6.fastcast4u.com/proxy/qrm?mp=/stream</location>
-      <title>QR - Quiet Russian</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>39</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://eu6.fastcast4u.com/proxy/lrm?mp=/stream</location>
-      <title>(null)</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>40</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream</location>
-      <title>RIC Russian Indie Channel</title>
-      <meta rel="bitrate">320</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>MP3</aimp:format>
-        <aimp:queueIndex>41</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://79.120.77.11:8002/melodicdeath</location>
-      <title>CAPRICE MELODIC DEATH METAL</title>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>42</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://213.141.131.10:8004/symphodeath</location>
-      <title>CAPRICE SYMPHONIC DEATH METAL</title>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:format>URL</aimp:format>
-        <aimp:queueIndex>43</aimp:queueIndex>
-      </extension>
-    </track>
-    <track>
-      <location>http://79.111.119.111:8004/melodicpower</location>
-      <title>CAPRICE MELODIC POWER METAL</title>
-      <meta rel="bitrate">319</meta>
-      <extension application="http://www.aimp.ru/playlist/track/0">
-        <aimp:chans>2</aimp:chans>
-        <aimp:samplerate>44100</aimp:samplerate>
-        <aimp:format>AAC</aimp:format>
-        <aimp:queueIndex>44</aimp:queueIndex>
-      </extension>
-    </track>
-  </trackList>
-  <extension application="http://www.aimp.ru/playlist/preimage/0">
-    <preimage class="TAIMPPlaylistBasedPreimage">
-      <URI>https://raw.githubusercontent.com/eXense-auth/radio_playlist/main/RADIO.xspf</URI>
-    </preimage>
-  </extension>
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/" version="1">
+	<title>RADIO_24.01.30</title>
+	<identifier>{F444CD58-0E21-46EE-B671-22AAC2506CBF}</identifier>
+	<location>file:///D:/Documents/Downloads/~RADIO_24.01.30.xspf</location>
+	<extension application="http://www.aimp.ru/playlist/summary/0">
+		<aimp:prop name="ID">{F444CD58-0E21-46EE-B671-22AAC2506CBF}</aimp:prop>
+		<aimp:prop name="Name">RADIO_24.01.30</aimp:prop>
+		<aimp:prop name="NameIsAutoSet">0</aimp:prop>
+		<aimp:prop name="ContentFiles">47</aimp:prop>
+		<aimp:prop name="PlaybackCursor">28</aimp:prop>
+		<aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
+		<aimp:prop name="Shuffled">0</aimp:prop>
+		<aimp:prop name="UserReordered">1</aimp:prop>
+	</extension>
+	<extension application="http://www.aimp.ru/playlist/settings/0">
+		<aimp:prop name="Flags">1917</aimp:prop>
+		<aimp:prop name="FormatMainLine">%IF(%Artist,%Artist - %Title,%Title)</aimp:prop>
+		<aimp:prop name="FormatSecondLine">%FileFormat :: %SampleRate, %BitRate, %FileSize</aimp:prop>
+		<aimp:prop name="GroupFormatLine">%Genre</aimp:prop>
+	</extension>
+	<trackList>
+		<track>
+			<location>http://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777?sABC=65o8q64q%230%23o98s3ns02op3861457r23o4r3179021n%23zrqvncynlre&amp;aw_0_1st.playerid=mediaplayer&amp;amsparams=playerid:mediaplayer;skey:1706612301</location>
+			<title>RADIO BOB - Prog Rock</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>0</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://cheetah.streemlion.com/progpalace64</location>
+			<title>Prog Palace Radio- The Armory</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>1</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://somafm.com/metal130.pls</location>
+			<title>Metal Detector: From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [SomaFM]</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>2</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://cast1.asurahosting.com/proxy/cobroxra/cobroxradio?0.049935923606255095</location>
+			<title>COBrOx.RADiO.fm</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>3</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://meralunafm.radionetz.de:8001/meralunafm.mp3</location>
+			<title>M'era Luna FM</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>4</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.schwarze-welle.de:7500</location>
+			<title>Schwarze Welle - Das Radio mit den besten dunklen Liedern</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>5</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://149.56.157.81:5127/stream</location>
+			<title>Cathedral XIII</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>6</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://ns319459.ip-91-121-67.eu:8000</location>
+			<title>XWAVE RADIO</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>7</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-12-03_15-57-55&amp;uuid=2b8b79e8-bf6e-41f5-952f-6f9c7ea71a67</location>
+			<title>Darksynth-Radio</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>8</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.laut.fm/darkzeroradio</location>
+			<title>DARK ZERO RADIO</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>9</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.laut.fm/schwarzlauscher</location>
+			<title>Schwarzlauscher</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>10</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.nightride.fm/darksynth.mp3</location>
+			<title>Nightride FM - Darksynth</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>11</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://bytefm--di--nacs-ice-01--01--cdn.cast.addradio.de/bytefm/hamburg/mp3/mid?_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC1uMmFlM2F0cGImdD0xNjk3MTg4ODMzJnM9Nzg2NmYyOWMjMzllOTM2NDcxYzVhNzNlZDE4NmMxZmQ2MDExZWJhMDg</location>
+			<title>ByteFM</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>12</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://radio.blueditor.com/8250/stream;</location>
+			<title>Radio Synthpop</title>
+			<meta rel="bitrate">66</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>13</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2023-10-12_07-20-07&amp;uuid=606bab87-15ed-4ae7-a78b-2045c8169a2c</location>
+			<title>dark-zero-radio</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>14</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://radio.streemlion.com:2405/stream</location>
+			<title>Big Sonic Heaven Radio</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>15</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.iceradio.net/listen</location>
+			<title>Iceradio Germany</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>16</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://hazzardstream.de:7777/?sid=1</location>
+			<title>Radio Hazzard of Darkness - The Best Radio</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>17</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://server26265.streamplus.de/;stream.mp3</location>
+			<title>Radio Nachtflug</title>
+			<meta rel="bitrate">256</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>18</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.skynet-local.net:8000/skynet_ultra</location>
+			<title>Skynet Radio</title>
+			<meta rel="bitrate">1418</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:bits>24</aimp:bits>
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>48000</aimp:samplerate>
+				<aimp:format>FLAC</aimp:format>
+				<aimp:queueIndex>19</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.laut.fm/neofolk</location>
+			<title>Neofolk</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>20</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.syntheticfm.com:8040/live</location>
+			<title>Synthetic FM - The radio for the Synth lovers</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>21</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://s2.radio.co/sab795a38d/listen</location>
+			<title>Louder Than War</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>22</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://c24.radioboss.fm:8014/stream</location>
+			<title>SynthWay Radio</title>
+			<meta rel="bitrate">256</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>23</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://ais-sa3.cdnstream1.com/2606_128.mp3</location>
+			<title>BAGeL Radio</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>24</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.darkasylum.co.uk/mp3/playlist.pls</location>
+			<title>=Dark Asylum Radio= For The Digitally Insane</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>25</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://usa5.fastcast4u.com/proxy/wwwblood?mp=/1</location>
+			<title>Bloodlitradio.com - Very Dark Alternative Radio</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>26</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.laut.fm/schwarzeszene</location>
+			<title>Schwarzeszene</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>27</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://138.197.0.4:8000/stream</location>
+			<title>Detroit Industrial Underground</title>
+			<meta rel="bitrate">256</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>28</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.120.12.130:8004/cyberpunk</location>
+			<title>Radio Caprice - Cyberpunk</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>29</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.124.120:8604/</location>
+			<title>Hexx 9</title>
+			<meta rel="bitrate">256</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>30</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.111.119.111:8002/dsbm</location>
+			<title>dsbm radcap.ru</title>
+			<meta rel="bitrate">50</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>31</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://web.batstationrad.io/stream.pls</location>
+			<title>The Bat Station</title>
+			<meta rel="bitrate">256</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>32</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://waveretro.ru:8443/stream</location>
+			<title>Retrowave.One Radio</title>
+			<meta rel="bitrate">193</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>33</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.laut.fm/ultradarkradio</location>
+			<title>Ultradark-Radio</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>34</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.laut.fm/flatlines</location>
+			<title>Flatlines</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>35</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://shoegaze.stream.laut.fm/shoegaze</location>
+			<title>Shoegaze</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>36</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.radio.co/s904013bb1/listen</location>
+			<title>Punk Rock Radio.ca</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>37</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://listen.42fm.ru:8000/stealkill</location>
+			<title>42fm radio station</title>
+			<meta rel="bitrate">192</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>38</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://eu6.fastcast4u.com/proxy/pnd?mp=/stream</location>
+			<title>PolygonFM</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>39</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream</location>
+			<title>Polygon.Fm</title>
+			<meta rel="bitrate">128</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>40</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://eu6.fastcast4u.com/proxy/qrm?mp=/stream</location>
+			<title>QR - Quiet Russian</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>41</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://eu6.fastcast4u.com/proxy/lrm?mp=/stream</location>
+			<title>(null)</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>42</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream</location>
+			<title>RIC Russian Indie Channel</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>MP3</aimp:format>
+				<aimp:queueIndex>43</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.120.77.11:8002/melodicdeath</location>
+			<title>CAPRICE MELODIC DEATH METAL</title>
+			<meta rel="bitrate">47</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>44</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://213.141.131.10:8004/symphodeath</location>
+			<title>CAPRICE SYMPHONIC DEATH METAL</title>
+			<meta rel="bitrate">320</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>45</aimp:queueIndex>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.111.119.111:8004/melodicpower</location>
+			<title>CAPRICE MELODIC POWER METAL</title>
+			<meta rel="bitrate">326</meta>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:chans>2</aimp:chans>
+				<aimp:samplerate>44100</aimp:samplerate>
+				<aimp:format>AAC</aimp:format>
+				<aimp:queueIndex>46</aimp:queueIndex>
+			</extension>
+		</track>
+	</trackList>
 </playlist>
